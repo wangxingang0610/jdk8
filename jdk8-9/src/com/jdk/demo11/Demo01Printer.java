@@ -10,7 +10,6 @@ public class Demo01Printer {
     }
 
     private static void method(Printer printer){
-
         printer.print("hello str...");
     }
 }
