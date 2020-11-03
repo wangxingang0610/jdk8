@@ -14,7 +14,7 @@ public class Demo {
 //        new Thread(r).start();
 
 //1
-
+//2
 
 
         DoubleToIntFunction doubleToIntFunction = new DoubleToIntFunction() {
