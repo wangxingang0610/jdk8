@@ -13,12 +13,6 @@ public class Demo {
 //
 //        new Thread(r).start();
 
-//1
-
-
-//789
-
-//        10
 
 
 
